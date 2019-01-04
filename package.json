@@ -1,0 +1,31 @@
+{
+  "name": "workshop",
+  "version": "1.0.0",
+  "description": "tool for work",
+  "main": "index.js",
+  "dependencies": {
+    "electron": "^4.0.0"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.2.3",
+    "@babel/core": "^7.2.2",
+    "@babel/preset-env": "^7.2.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron app/main"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZeroHsu/workshop.git"
+  },
+  "author": {
+    "name": "zero",
+    "email": "zero.hsu@hotmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ZeroHsu/workshop/issues"
+  },
+  "homepage": "https://github.com/ZeroHsu/workshop#readme"
+}
